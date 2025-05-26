@@ -1,5 +1,3 @@
-# effective-waffle
-
 # 📌 Hello, I'm Airdrop Hunter! 👋  
 
 Welcome to my GitHub profile! I'm a passionate blockchain developer and airdrop specialist who loves exploring new crypto opportunities and building tools to automate airdrop claims.
@@ -39,9 +37,9 @@ Welcome to my GitHub profile! I'm a passionate blockchain developer and airdrop 
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?serveo-net=serveo-net&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?serveo-net=serveo-net&layout=compact&theme=radical)  
 
 ## 🔗 Connect With Me  
 
@@ -51,10 +49,10 @@ Welcome to my GitHub profile! I'm a passionate blockchain developer and airdrop 
 
 ## 👀 Visitor Counter  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?serveo-net=serveo-net&color=blue&style=flat-square)  
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)  
+⭐️ From [Your Name](https://github.com/serveo-net)  
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊  
