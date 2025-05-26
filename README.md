@@ -37,9 +37,9 @@ Welcome to my GitHub profile! I'm a passionate blockchain developer and airdrop 
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?serveonet=serveonet&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=serveonet&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?serveonet=serveonet&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serveonet&layout=compact&theme=radical)  
 
 ## 🔗 Connect With Me  
 
@@ -53,6 +53,6 @@ Welcome to my GitHub profile! I'm a passionate blockchain developer and airdrop 
 
 ---
 
-⭐️ From [Your Name](https://github.com/serveonet)  
+⭐️ From [serveonet](https://github.com/serveo-net)  
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊  
