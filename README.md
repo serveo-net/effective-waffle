@@ -1,3 +1,4 @@
+![GIF Animasi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9taWE5c3JtcTE0b3libDAxM2dwdWt1emJvbHMyZ2JrYWx3eWNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif)
 # 📌 Hello, I'm Airdrop Hunter! 👋  
 
 Welcome to my GitHub profile! I'm a passionate blockchain developer and airdrop specialist who loves exploring new crypto opportunities and building tools to automate airdrop claims.
