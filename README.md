@@ -37,9 +37,9 @@ Welcome to my GitHub profile! I'm a passionate blockchain developer and airdrop 
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?serveo-net=serveo-net&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?serveonet=serveonet&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?serveo-net=serveo-net&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?serveonet=serveonet&layout=compact&theme=radical)  
 
 ## 🔗 Connect With Me  
 
@@ -49,10 +49,10 @@ Welcome to my GitHub profile! I'm a passionate blockchain developer and airdrop 
 
 ## 👀 Visitor Counter  
 
-![Visitor Count](https://komarev.com/ghpvc/?serveo-net=serveo-net&color=blue&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?serveonet=serveonet&color=blue&style=flat-square)  
 
 ---
 
-⭐️ From [Your Name](https://github.com/serveo-net)  
+⭐️ From [Your Name](https://github.com/serveonet)  
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊  
